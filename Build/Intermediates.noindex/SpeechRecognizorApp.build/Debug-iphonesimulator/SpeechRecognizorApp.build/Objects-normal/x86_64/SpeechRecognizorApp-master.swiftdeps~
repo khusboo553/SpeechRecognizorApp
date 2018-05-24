@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "1ca6fac550f26d30a4fc5c876522249d"
+build_time: [1526365812, 473337000]
+inputs:
+  "/Users/GLB-285/Documents/learning-iOS/LearnSwift/SpeechRecognizorApp/SpeechRecognizorApp/ViewController.swift": [1526365127, 0]
+  "/Users/GLB-285/Documents/learning-iOS/LearnSwift/SpeechRecognizorApp/SpeechRecognizorApp/AppDelegate.swift": [1526365127, 0]
